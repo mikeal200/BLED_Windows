@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\GitHub\BLED Windows\bin\Debug\netcoreapp3.1\BLED Windows.exe
+C:\Users\Michael\Documents\GitHub\BLED Windows\bin\Debug\netcoreapp3.1\BLED Windows.deps.json
+C:\Users\Michael\Documents\GitHub\BLED Windows\bin\Debug\netcoreapp3.1\BLED Windows.runtimeconfig.json
+C:\Users\Michael\Documents\GitHub\BLED Windows\bin\Debug\netcoreapp3.1\BLED Windows.runtimeconfig.dev.json
+C:\Users\Michael\Documents\GitHub\BLED Windows\bin\Debug\netcoreapp3.1\BLED Windows.dll
+C:\Users\Michael\Documents\GitHub\BLED Windows\bin\Debug\netcoreapp3.1\BLED Windows.pdb
+C:\Users\Michael\Documents\GitHub\BLED Windows\obj\Debug\netcoreapp3.1\BLED Windows.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\BLED Windows\obj\Debug\netcoreapp3.1\BLED Windows.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\GitHub\BLED Windows\obj\Debug\netcoreapp3.1\BLED Windows.AssemblyInfo.cs
+C:\Users\Michael\Documents\GitHub\BLED Windows\obj\Debug\netcoreapp3.1\BLED Windows.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\GitHub\BLED Windows\obj\Debug\netcoreapp3.1\BLED Windows.dll
+C:\Users\Michael\Documents\GitHub\BLED Windows\obj\Debug\netcoreapp3.1\BLED Windows.pdb
+C:\Users\Michael\Documents\GitHub\BLED Windows\obj\Debug\netcoreapp3.1\BLED Windows.genruntimeconfig.cache
